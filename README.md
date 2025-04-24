@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasannbarot
 - 👀 I’m interested in Data science and machine learning.
-- 🌱 I’m currently learning evrything about Data science and machine learning.
+- 🌱 I’m currently learning everything about Data science and machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
